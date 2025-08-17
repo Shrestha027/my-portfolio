@@ -1,0 +1,28 @@
+{
+  "frontend": [
+    "React.js",
+    "Tailwind CSS",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "backend": [
+    "Node.js",
+    "Express",
+    "Python",
+    "Java",
+    "Spring Boot"
+  ],
+  "tools": [
+    "MongoDB",
+    "MySQL",
+    "Postman",
+    "Git",
+    "GitHub"
+  ],
+  "devops": [
+    "CI/CD pipelines",
+    "containerization(dockers)",
+    "jenkins"
+  ]
+}

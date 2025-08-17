@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Online Shop – DevOps E-Commerce Project",
+    "description": "Developed and deployed a fully functional e-commerce web application while demonstrating core DevOps practices. The project focused on containerization, automation, cloud deployment, and security analysis to simulate real-world DevOps workflows.",
+    "tech": "React (Vite) · Node.js · Docker · Docker Compose · Git & GitHub · Linux · Amazon EC2",
+    "github": "#",
+    "demo": "#"
+  },
+  {
+    "title": "TrustLend - AI-powered Microfinance Platform",
+    "description": "uilt an AI-powered microfinance platform to enable credit access for 190M+ unbanked Indians. The system integrates algorithm-based credit scoring, ML-driven risk assessment, and secure OTP login, making financial services more inclusive. Delivered a full-stack MVP in just 48 hours, featuring synthetic financial history, PDF generation, and interactive credit dashboards.Outlined a future product roadmap with advanced features such as voice-guided navigation, regional language support, blockchain-backed transactions, and live agent support to enhance accessibility, trust, and security.Tech Stack:.",
+    "tech": "TypeScript · TailwindCSS · Supabase · Machine Learning (Python/AI Models) · Docker",
+    "github": "#",
+    "demo": "#"
+  }
+]
